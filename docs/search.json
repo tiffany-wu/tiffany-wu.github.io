@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "art.html",
+    "href": "art.html",
+    "title": "Rtistry",
+    "section": "",
+    "text": "People have referred to art that is created by coding in the R statistical programming language as “Rtistry” or “aRt”. I love merging my love of art with the technical framework of code, and I think the artistic exploration of code can open the door to beautiful, new visualizations (and better coding skills!).\nHere you’ll find a selection of Rtistry pieces I’ve created. I’ve provided code for some of the piece on my Github page, so feel free to take a look if you’re interested!\n\n\n\nInspired by a map of my mom’s hometown in Chiayi, Taiwan\n\n\n\n\n\nInspired by Haku in Sprited Away\n\n\n\n\n\nSome soot sprites\n\n\n\n\n\nInspired by Ponyo\n\n\n\n\n\nMore Spirited Away-inspired aRt"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "This browser does not support PDFs. Please download the PDF to view it: Download PDF.\n\n\n\nLast updated 4/2023."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Tiffany Wu",
@@ -14,38 +28,10 @@
     "text": "Causal inference\nMachine learning\nPsychometrics\nExecutive functioning\nEarly childhood education\nEducation equity"
   },
   {
-    "objectID": "index.html#welcome",
-    "href": "index.html#welcome",
-    "title": "Tiffany Wu",
-    "section": "Welcome!",
-    "text": "Welcome!\nI am a doctoral student in the Combined Program in Education and Psychology (CPEP) at the University of Michigan and am pursuing a dual master's degree in Statistics. I am also an IES Causal Inference Predoctoral Fellow and a 2022 APPAM Equity and Diversity Fellow.\nAt the University of Michigan, I work with Dr. Christina Weiland. I am broadly interested in examining education interventions and policies through research-practice partnerships, using causal inference and machine learning methods. I hope to apply this research to inform the development of more effective and equitable education interventions and teaching policies. I worked as a public high school teacher in Chicago and then as a research analyst for an education non-profit prior to starting my PhD. In my free time, I likes to paint, play the piano, and rock climb."
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Tiffany Wu",
-    "section": "Education",
-    "text": "Education\nM.A. in Psychology | University of Chicago | 2019\nB.S. in Secondary Education & History | Northwestern University | 2015"
-  },
-  {
     "objectID": "research.html#policy-briefs",
     "href": "research.html#policy-briefs",
     "title": "Research",
     "section": "Policy Briefs",
     "text": "Policy Briefs\nWu, T., McCormick, M., Weiland, C., Hsueh, J., Sachs, J., & Snow, C. (2023). What sustains the pre-K boost? New evidence from Boston Public Schools. Boston Early Childhood Research Practice Partnership.\nWeiland, C., McCormick, M., Wu, T., MacDowell, C., Guerrero-Rosada, P., Taylor, A., Snow, C., & Sachs, J. (2023). Teacher well-being and professional development in a pandemic: Evidence from early educators in the Boston Public Schools. Boston Early Childhood Research Practice Partnership."
-  },
-  {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "Curriculum Vitae",
-    "section": "",
-    "text": "This browser does not support PDFs. Please download the PDF to view it: Download PDF.\n\n\n\nLast updated 4/2023."
-  },
-  {
-    "objectID": "art.html",
-    "href": "art.html",
-    "title": "Rtistry",
-    "section": "",
-    "text": "People have referred to art that is created by coding in the R statistical programming language as “Rtistry” or “aRt”. I love merging my love of art with the technical framework of code, and I think the artistic exploration of code can open the door to beautiful, new visualizations (and better coding skills!).\nHere you’ll find a selection of Rtistry pieces I’ve created. I’ve provided code for some of the piece on my Github page, so feel free to take a look if you’re interested!\n\n\n\nInspired by a map of my mom’s hometown in Chiayi, Taiwan\n\n\n\n\n\nInspired by Haku in Sprited Away\n\n\n\n\n\nSome soot sprites\n\n\n\n\n\nInspired by Ponyo\n\n\n\n\n\nMore Spirited Away-inspired aRt"
   }
 ]
