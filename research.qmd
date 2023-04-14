@@ -1,43 +1,8 @@
 ---
 title: Research
-title-block-banner: research_top.png
-format: 
-  html:
-    code-fold: true
-    page-layout: full
-    fig_caption: yes
+title-block-banner: "#FFE6EA"
 ---
 
-
-<style>
-.title {
-  font-size: 60px;
-  padding-bottom: 100px;
-  position: absolute;
-  top: 50%;
-  left: 10%;
-  transform: translate(-50%, -20%);
-  text-align: center;
-}
-
-#title-block-header {
-  margin-block-end: 1rem;
-  position: relative;
-  height: 310px;
-}
-
-.quarto-title-banner {
-  margin-block-end: 1rem;
-  position: relative;
-  margin-top: -20px;
-  height: 140%;
-}
-
-#TOC {
-  display: none;
-}
-
-</style>
 ## Research Interests
 - Causal inference
 - Machine learning

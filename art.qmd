@@ -1,11 +1,9 @@
 ---
 title: Rtistry
-title-block-banner: art_top.png
-format: 
+title-block-banner: "#FFE6EA"
+format:
   html:
-    code-fold: true
-    page-layout: full
-    fig_caption: yes
+    toc: false
 ---
 
 ## What is "Rtistry"?
@@ -24,33 +22,3 @@ Here you'll find a selection of Rtistry pieces I've created. I've provided code 
 
 ![More Spirited Away-inspired aRt](genart_haku.jpg)
 
-
-<style>
-.title {
-  font-size: 60px;
-  padding-bottom: 100px;
-  position: absolute;
-  top: 50%;
-  left: 10%;
-  transform: translate(-50%, -20%);
-  text-align: center;
-}
-
-#title-block-header {
-  margin-block-end: 1rem;
-  position: relative;
-  height: 310px;
-}
-
-.quarto-title-banner {
-  margin-block-end: 1rem;
-  position: relative;
-  margin-top: -20px;
-  height: 140%;
-}
-
-#TOC {
-  display: none;
-}
-
-</style>
