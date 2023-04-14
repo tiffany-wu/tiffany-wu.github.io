@@ -1,0 +1,14 @@
+{
+  "hash": "781007d40753fcdfcbab3e14877fab42",
+  "result": {
+    "markdown": "---\ntitle: Research\ntitle-block-banner: research_top.png\n---\n\n\nAbout this site\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n\n::: {.cell}\n<style type=\"text/css\">\n#title-block-banner {\n    background-image: url('research_top.png');\n    background-size: cover;\n    height: 400px;\n    opacity: 0.7;\n}\n\n</style>\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,11 +1,30 @@
 ---
-title: "academic_webpage"
+title: "Tiffany Wu"
+about:
+  template: trestles
+  image: profile_mlec.jpg
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/TiffanyxWu
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/tiffany-wu-854b775a/
+    - icon: github
+      text: Github
+      href: https://github.com/tiffany-wu
 ---
 
-This is a Quarto website.
+<section class="about">
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Welcome! I am a doctoral student in the [Combined Program in Education and Psychology (CPEP)](https://soe.umich.edu/academics-admissions/cpep) at the University of Michigan and am pursuing a dual master\'s degree in [Statistics](https://lsa.umich.edu/stats/masters_students/mastersprograms/dualmasters.html). I am also an [IES Causal Inference Predoctoral Fellow](https://edpolicy.umich.edu/training/predoctoral-fellowship) and a 2022 APPAM Equity and Diversity Fellow.
 
-```{r}
-1 + 1
-```
+At the University of Michigan, I work with [Dr. Christina Weiland](https://sites.google.com/a/umich.edu/christina-weiland/). I am broadly interested in examining education interventions and policies through research-practice partnerships, using causal inference and machine learning methods. I hope to apply this research to inform the development of more effective and equitable education interventions and teaching policies. I worked as a public high school teacher in Chicago and then as a research analyst for an education non-profit prior to starting my PhD. In my free time, I likes to paint, play the piano, and rock climb.
+
+## Education
+
+M.A. in Psychology | University of Chicago | 2019
+
+B.S. in Secondary Education & History | Northwestern University | 2015
+
+</section>

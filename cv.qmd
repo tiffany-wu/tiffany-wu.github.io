@@ -1,0 +1,47 @@
+---
+title: "Curriculum Vitae"
+title-block-banner: cv_top.png
+format: 
+  html:
+    code-fold: true
+    page-layout: full
+    fig_caption: yes
+---
+
+<object data="CV_Wu_Academic.pdf" type="application/pdf" width="900px" height="900px">
+    <embed src="CV_Wu_Academic.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="CV_Wu_Academic.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+Last updated 4/2023.
+
+<style>
+.title {
+  font-size: 60px;
+  padding-bottom: 100px;
+  position: absolute;
+  top: 50%;
+  left: 10%;
+  transform: translate(-30%, -20%);
+  text-align: center;
+}
+
+#title-block-header {
+  margin-block-end: 1rem;
+  position: relative;
+  height: 310px;
+}
+
+.quarto-title-banner {
+  margin-block-end: 1rem;
+  position: relative;
+  margin-top: -20px;
+  height: 140%;
+}
+
+#TOC {
+  display: none;
+}
+
+</style>
