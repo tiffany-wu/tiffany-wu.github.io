@@ -8,9 +8,9 @@ format:
 
 ## What is "Rtistry"?
 
-People have referred to art that is created by coding in the R statistical programming language as "Rtistry" or "aRt". I love merging my love of art with the technical framework of code, and I think the artistic exploration of code can open the door to beautiful, new visualizations (and better coding skills!).
+People often refer to art that is created by coding in the R statistical programming language as "Rtistry" or "aRt". I love merging my love of art with the technical framework of code, and I think the artistic exploration of code can open the door to beautiful, new visualizations (and better coding skills!).
 
-Here you'll find a selection of Rtistry pieces I've created. I've provided code for some of the piece on my Github page, so feel free to take a look if you're interested!
+Here you'll find a selection of Rtistry pieces I've created. I've provided code for some of the pieces on my Github page, so feel free to take a look if you're interested!
 
 ![Inspired by a map of my mom's hometown in Chiayi, Taiwan](chiayi_map_final_final.png)
 
