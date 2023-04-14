@@ -20,7 +20,11 @@ Last updated 4/2023.
 .title {
   font-size: 60px;
   padding-bottom: 100px;
-  position: relative;
+  position: absolute;
+  top: 50%;
+  left: 10%;
+  transform: translate(-30%, -20%);
+  text-align: center;
 }
 
 #title-block-header {
