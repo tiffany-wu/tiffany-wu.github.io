@@ -29,11 +29,7 @@ Here you'll find a selection of Rtistry pieces I've created. I've provided code 
 .title {
   font-size: 60px;
   padding-bottom: 100px;
-  position: absolute;
-  top: 50%;
-  left: 10%;
-  transform: translate(-50%, -20%);
-  text-align: center;
+  position: relative;
 }
 
 #title-block-header {
