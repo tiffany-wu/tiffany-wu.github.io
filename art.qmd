@@ -12,22 +12,22 @@ People often refer to art that is created by coding in the R statistical program
 
 Here you'll find a selection of Rtistry pieces I've created. I've provided code for some of the pieces on my Github page, so feel free to take a look if you're interested!
 
-## Inspired by a map of my mom's hometown in Chiayi, Taiwan
+### Inspired by a map of my mom's hometown in Chiayi, Taiwan
 ![](chiayi_map_final_final.png)
 
-## Some Pink Floyd-inspired fish
+### Some Pink Floyd-inspired fish
 ![](fish_water_final.png) ![](fish_space_final.png)
 
 
-## Inspired by Haku in Sprited Away
+### Inspired by Haku in Sprited Away
 ![](SA-Water_final.png)
 
-## Some soot sprites
+### Some soot sprites
 ![](Soot Sprites.png)
 
-## Inspired by Ponyo
+### Inspired by Ponyo
 ![](genart_ponyo2.png)
 
-## More aRt inspired by Sprited Away
+### More aRt inspired by Sprited Away
 ![](genart_haku.jpg)
 
