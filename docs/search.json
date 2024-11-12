@@ -11,7 +11,7 @@
     "href": "cv.html",
     "title": "Curriculum Vitae",
     "section": "",
-    "text": "This browser does not support PDFs. Please download the PDF to view it: Download PDF.\n\n\n\nLast updated 4/2023."
+    "text": "This browser does not support PDFs. Please download the PDF to view it: Download PDF.\n\n\n\nLast updated 11/2024."
   },
   {
     "objectID": "index.html",
@@ -25,7 +25,7 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Causal inference\nMachine learning\nPsychometrics\nExecutive functioning\nEarly childhood education\nEducation equity"
+    "text": "Causal inference\nMachine learning\nPsychometrics\nEarly childhood education\nChronic absenteeism\nExecutive functioning\nEducational equity"
   },
   {
     "objectID": "research.html#policy-briefs",
@@ -39,7 +39,7 @@
     "href": "research.html#professional-presentations",
     "title": "Research",
     "section": "Professional Presentations",
-    "text": "Professional Presentations\nWu, T., Weiland, C., Unterman, R., Shapiro, A. (2023, November). Prekindergarten absenteeism in Boston Public Schools: Predictors, patterns, and relationships to learning outcomes. Association for Public Policy Analysis & Management (APPAM), Atlanta, GA.\nWu, T., Weiland, C., McCormick, M., Hsueh, J., Snow, C., & Sachs, J. (2023, May). One score to rule them all? Comparing the predictive and concurrent validity of 30 ways to score the Hearts and Flowers task. HighScope International Conference, Ypsilanti, MI.\nWu, T., Weiland, C., McCormick, M., Hsueh, J., Snow, C., & Sachs, J. (2023, May). One score to rule them all? Comparing the predictive and concurrent validity of 30 ways to score the Hearts and Flowers task. American Educational Research Association (AERA), Chicago, IL.\nWu, T., Weiland, C., McCormick, M., Hsueh, J., Snow, C., & Sachs, J. (2023, March). One score to rule them all? Comparing the predictive and concurrent validity of 30 ways to score the Hearts and Flowers task. The Susan B. Meister Lecture in Child Health Policy, the University of Michigan Child Health Evaluation and Research Center, Ann Arbor, MI.\nWu, T. (2019, June). Multiplication is Vexation and Practice Drives Me Mad: Retrieval Practice Accuracy Mediates the Effect of Math Anxiety on Test Performance. The University of Chicago MAPSS Conference, Chicago, IL.\nJenifer, J. & Wu, T. (2019, May). Math Anxiety & Retrieval Practice: A Potential Strategy for Reducing Performance Gaps. Association for Psychological Science (APS) 31st Annual Convention. Washington, D.C.\nSommer, T.E., Chase-Lansdale, L., Sabol, T.J., Yoshikawa, H., Brooks-Gunn, J., Wu, T. (2014, June). Barrier or Opportunity to Promote Parental Employment?: Early Childhood Education Programs for Low-Income Children. Work and Family Researchers Network Conference. New York City, NY."
+    "text": "Professional Presentations\nWu, T. & Weiland, C. (2024, September). Leveraging Modern Machine Learning to Reduce Chronic Absenteeism in Early Childhood. Society for Research on Educational Effectiveness (SREE), Baltimore, MD.\nWu, T., Weiland, C., Unterman, R., Shapiro, A. (2023, November). Prekindergarten absenteeism in Boston Public Schools: Predictors, patterns, and relationships to learning outcomes. Association for Public Policy Analysis & Management (APPAM), Atlanta, GA.\nWu, T., Weiland, C., McCormick, M., Hsueh, J., Snow, C., & Sachs, J. (2023, May). One score to rule them all? Comparing the predictive and concurrent validity of 30 ways to score the Hearts and Flowers task. HighScope International Conference, Ypsilanti, MI.\nWu, T., Weiland, C., McCormick, M., Hsueh, J., Snow, C., & Sachs, J. (2023, May). One score to rule them all? Comparing the predictive and concurrent validity of 30 ways to score the Hearts and Flowers task. American Educational Research Association (AERA), Chicago, IL.\nWu, T., Weiland, C., McCormick, M., Hsueh, J., Snow, C., & Sachs, J. (2023, March). One score to rule them all? Comparing the predictive and concurrent validity of 30 ways to score the Hearts and Flowers task. The Susan B. Meister Lecture in Child Health Policy, the University of Michigan Child Health Evaluation and Research Center, Ann Arbor, MI.\nWu, T. (2019, June). Multiplication is Vexation and Practice Drives Me Mad: Retrieval Practice Accuracy Mediates the Effect of Math Anxiety on Test Performance. The University of Chicago MAPSS Conference, Chicago, IL.\nJenifer, J. & Wu, T. (2019, May). Math Anxiety & Retrieval Practice: A Potential Strategy for Reducing Performance Gaps. Association for Psychological Science (APS) 31st Annual Convention. Washington, D.C.\nSommer, T.E., Chase-Lansdale, L., Sabol, T.J., Yoshikawa, H., Brooks-Gunn, J., Wu, T. (2014, June). Barrier or Opportunity to Promote Parental Employment?: Early Childhood Education Programs for Low-Income Children. Work and Family Researchers Network Conference. New York City, NY."
   },
   {
     "objectID": "art.html#inspired-by-a-map-of-my-moms-hometown-in-chiayi-taiwan",
@@ -82,5 +82,40 @@
     "title": "Rtistry",
     "section": "More aRt inspired by Sprited Away",
     "text": "More aRt inspired by Sprited Away"
+  },
+  {
+    "objectID": "research.html#research-interests",
+    "href": "research.html#research-interests",
+    "title": "Research",
+    "section": "",
+    "text": "Causal inference\nMachine learning\nPsychometrics\nEarly childhood education\nChronic absenteeism\nExecutive functioning\nEducational equity"
+  },
+  {
+    "objectID": "research.html#peer-reviewed-journal-articles",
+    "href": "research.html#peer-reviewed-journal-articles",
+    "title": "Research",
+    "section": "Peer Reviewed Journal Articles",
+    "text": "Peer Reviewed Journal Articles\nWu, T., Weiland, C., McCormick, M., C., Hsueh, J., Snow, C., & Sachs, J. (2024). One score to rule them all: Comparing the predictive and concurrent validity of 30 ways to score the Hearts and Flowers task. Assessment, 1-19. link here"
+  },
+  {
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "Research",
+    "section": "Working Papers",
+    "text": "Working Papers\nWu, T., & Weiland, C. (2024). Leveraging modern machine learning to improve early warning systems and reduce chronic absenteeism in early childhood (EdWorkingPaper No. 24-1081). Annenberg Institute at Brown University. https://doi.org/10.26300/xxvz-cv94 link here"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Tiffany Wu",
+    "section": "",
+    "text": "PhD in Education & Psychology | University of Michigan | Expected 2026\nMA in Statistics | University of Michigan | Expected 2026\nMA in Psychology | University of Chicago | 2019\nBS in Secondary Education & History | Northwestern University | 2015"
+  },
+  {
+    "objectID": "art.html#what-is-rtistry",
+    "href": "art.html#what-is-rtistry",
+    "title": "Rtistry",
+    "section": "",
+    "text": "People often refer to art that is created by coding in the R statistical programming language as “Rtistry” or “aRt”. I love merging my love of art with the technical framework of code, and I think the artistic exploration of code can open the door to beautiful, new visualizations (and better coding skills!).\nHere you’ll find a selection of Rtistry pieces I’ve created. I’ve provided code for some of the pieces on my Github page, so feel free to take a look if you’re interested!"
   }
 ]
