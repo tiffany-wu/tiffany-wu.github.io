@@ -11,7 +11,6 @@ title-block-banner: "#FFE6EA"
 -   Early childhood education
 -   Chronic absenteeism
 -   Executive functioning
--   Educational equity
 
 ## Peer Reviewed Journal Articles
 

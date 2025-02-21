@@ -4,25 +4,19 @@ about:
   template: trestles
   image: profile_mlec.jpg
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/TiffanyxWu
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/tiffany-wu-854b775a/
     - icon: github
       text: Github
       href: https://github.com/tiffany-wu
-    - icon: cloud-sun
-      text: BlueSky
-      href: https://bsky.app/profile/tiffanyxwu.bsky.social
 ---
 
 <section class="about">
 
-Welcome! I am a doctoral student in the [Combined Program in Education and Psychology (CPEP)](https://soe.umich.edu/academics-admissions/cpep) at the University of Michigan and am pursuing a dual master's degree in [Statistics](https://lsa.umich.edu/stats/masters_students/mastersprograms/dualmasters.html). I am also an [IES Causal Inference Predoctoral Fellow](https://edpolicy.umich.edu/training/predoctoral-fellowship) and a 2022 APPAM Equity and Diversity Fellow.
+Welcome! I am a doctoral student in the [Combined Program in Education and Psychology (CPEP)](https://soe.umich.edu/academics-admissions/cpep) at the University of Michigan and am pursuing a dual master's degree in [Statistics](https://lsa.umich.edu/stats/masters_students/mastersprograms/dualmasters.html). I am also an [IES Causal Inference Predoctoral Fellow](https://edpolicy.umich.edu/training/predoctoral-fellowship).
 
-At the University of Michigan, I work with [Dr. Christina Weiland](https://sites.google.com/a/umich.edu/christina-weiland/). I am interested in using causal inference and machine learning methods to help inform the development of more effective and equitable education interventions and teaching policies. I am also interested in collaborating as part of research-practice partnerships to make research more publicly accessible and able to guide real-world decision-making. My research is deeply influenced by my previous work as a public high school teacher on the South Side of Chicago and then as a research analyst for an education non-profit prior to starting my PhD. In my free time, I like to paint, play the piano, and rock climb.
+At the University of Michigan, I work with [Dr. Christina Weiland](https://sites.google.com/a/umich.edu/christina-weiland/). I am interested in using causal inference and machine learning methods to help inform the development of more effective education interventions and policies. I am also interested in collaborating as part of research-practice partnerships to make research more publicly accessible and able to guide real-world decision-making. My research is deeply influenced by my previous work as a public high school teacher in Chicago and then as a research analyst for an education non-profit prior to starting my PhD. In my free time, I like to paint, play the piano, and rock climb.
 
 ## Education
 
