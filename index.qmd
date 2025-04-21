@@ -10,6 +10,9 @@ about:
     - icon: github
       text: Github
       href: https://github.com/tiffany-wu
+    - icon: Bluesky
+      text: Bluesky
+      href: https://bsky.app/profile/tiffanyxwu.bsky.social
 ---
 
 <section class="about">

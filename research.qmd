@@ -12,23 +12,33 @@ title-block-banner: "#FFE6EA"
 -   Chronic absenteeism
 -   Executive functioning
 
-## Peer Reviewed Journal Articles
+## Peer Reviewed Journal Articles (published or in press)
 
 **Wu, T.,** Weiland, C., McCormick, M., C., Hsueh, J., Snow, C., & Sachs, J. (2024). One score to rule them all: Comparing the predictive and concurrent validity of 30 ways to score the Hearts and Flowers task. Assessment, 1-19. [link here](https://journals.sagepub.com/doi/full/10.1177/10731911241229566)
 
+McCormick, M., Hanno, E., Weiland, C., Wu, T., Pralica, M., Hsueh, J., Giles, A., Snow, C., & Sachs, J. (in press). Moving beyond point in time estimates: Using growth models to understand when PreK convergence happens, how, and for which skills. Child Development.
+
 ## Working Papers
 
-**Wu, T.,** & Weiland, C. (2024). Leveraging modern machine learning to improve early warning systems and reduce chronic absenteeism in early childhood (EdWorkingPaper No. 24-1081). Annenberg Institute at Brown University. https://doi.org/10.26300/xxvz-cv94 [link here](https://edworkingpapers.com/ai24-1081)
+**Wu, T.,** & Weiland, C. (2024). Leveraging Modern Machine Learning to Improve Early Warning Systems and Reduce Chronic Absenteeism in Early Childhood. EdWorkingPaper No. 24-1081. Annenberg Institute for School Reform at Brown University. https://doi.org/10.26300/xxvz-cv94 [link here](https://edworkingpapers.com/ai24-1081)
 
 ## Policy Briefs
 
-**Wu, T.,** McCormick, M., Weiland, C., Hsueh, J., Sachs, J., & Snow, C. (2023). [What sustains the pre-K boost? New evidence from Boston Public Schools.](https://edpolicy.umich.edu/research/boston-rpp-briefs/what-sustains-pre-k-boost-new-evidence-boston-public-schools) Boston Early Childhood Research Practice Partnership.
-
 Weiland, C., McCormick, M., **Wu, T.,** MacDowell, C., Guerrero-Rosada, P., Taylor, A., Snow, C., & Sachs, J. (2023). [Teacher well-being and professional development in a pandemic: Evidence from early educators in the Boston Public Schools.](https://edpolicy.umich.edu/research/boston-rpp-briefs/professional-development-time-covid-19-evidence-and-insights-early) Boston Early Childhood Research Practice Partnership.
+
+**Wu, T.,** McCormick, M., Weiland, C., Hsueh, J., Sachs, J., & Snow, C. (2023). [What sustains the pre-K boost? New evidence from Boston Public Schools.](https://edpolicy.umich.edu/research/boston-rpp-briefs/what-sustains-pre-k-boost-new-evidence-boston-public-schools) Boston Early Childhood Research Practice Partnership.
 
 **Wu, T.,** Weiland, C., McCormick, M., Sachs, J., Taylor, A., Hsueh, J., & Snow, C. (2023). [What if You Miss the First Year of an Aligned Curriculum? Boston Public Schools’ Pre-K Non-Attenders Made Equivalent Learning Gains Whether or Not their Kindergarten Program was Aligned with Pre-K.](https://edpolicy.umich.edu/research/boston-rpp-briefs/what-if-you-miss-first-year-aligned-curriculum) Boston Early Childhood Research Practice Partnership.
 
 ## Professional Presentations
+
+Weiland, C., **Wu, T.**., Unterman, R., Shapiro, A., Lightner, S., Staines, T., & Taylor, A. (2025, May). Impacts of Oversubscribed Boston Pre-K Programs through Middle School. Causal Inference in Education Research Seminar, Ann Arbor, MI.
+
+**Wu, T.** & Weiland, C. (2025, May). Leveraging Modern Machine Learning to Improve Early Warning Systems and Reduce Chronic Absenteeism in Early Childhood. Supporting Students in their Earliest Years: Innovations at the State and Local Levels. Harvard University Strategic Data Project Convening, Boston, MA.
+
+Yerington, E., Weiland, C., **Wu, T.**, McCormick, M., Hsueh, J., Sachs, J., Snow, C., Guerrero-Rosada, P., & Xia, Y. (2025, May). Teacher-Student Racial-Ethnic Match and Kindergarteners’ Academic and Cognitive Gains: Evidence from Boston. Society for Research in Child Development (SRCD), Minneapolis, MN.
+
+**Wu, T.** (2025, February). Leveraging Modern Machine Learning to Improve Early Warning Systems and Reduce Chronic Absenteeism in Early Childhood. Combined Program in Education and Psychology Brown Bag, Ann Arbor, MI.
 
 **Wu, T.** & Weiland, C. (2024, September). Leveraging Modern Machine Learning to Reduce Chronic Absenteeism in Early Childhood. Society for Research on Educational Effectiveness (SREE), Baltimore, MD.
 
