@@ -20,7 +20,7 @@
 
 /* Override minty theme green */
 :root {
-  --bs-primary: #339164; /* darker green */
+  --bs-primary: #37917b; /* darker green */
 }
 
 /* Optional: also tweak hover/focus states */
