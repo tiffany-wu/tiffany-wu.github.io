@@ -1,6 +1,6 @@
 ---
 title: "Curriculum Vitae"
-title-block-banner: "#FFE6EA"
+title-block-banner: "#e0a8b1"
 ---
 
 <object data="CV_Wu_Academic_2.pdf" type="application/pdf" width="900px" height="900px">
@@ -13,4 +13,4 @@ title-block-banner: "#FFE6EA"
 
 </object>
 
-Last updated 4/2025.
+Last updated 8/2025.
