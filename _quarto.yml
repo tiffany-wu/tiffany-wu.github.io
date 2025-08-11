@@ -16,7 +16,7 @@ website:
         text: Art
   search: 
     location: navbar
-    type: overlay
+  #  type: overlay
 #  css: custom.css
 
 format:
