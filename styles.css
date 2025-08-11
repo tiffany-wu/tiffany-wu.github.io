@@ -20,7 +20,7 @@
 
 /* Override minty theme green */
 :root {
-  --bs-primary: #37917b; /* darker green */
+  --bs-primary: #328571; /* darker green */
 }
 
 /* Optional: also tweak hover/focus states */
@@ -32,6 +32,6 @@
 
 .btn-primary:hover,
 .navbar .nav-link.active:hover {
-  background-color: #2b7a54 !important; /* even darker hover */
-  border-color: #2b7a54 !important;
+  background-color: #296e5d !important; /* even darker hover */
+  border-color: #296e5d !important;
 }
