@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "art.html",
-    "href": "art.html",
-    "title": "Rtistry",
-    "section": "",
-    "text": "People often refer to art that is created by coding in the R statistical programming language as “Rtistry” or “aRt”. I love merging my love of art with the technical framework of code, and I think the artistic exploration of code can open the door to beautiful, new visualizations (and better coding skills!).\nHere you’ll find a selection of Rtistry pieces I’ve created. I’ve provided code for some of the pieces on my Github page, so feel free to take a look if you’re interested!"
-  },
-  {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "Curriculum Vitae",
-    "section": "",
-    "text": "This browser does not support PDFs. Please download the PDF to view it: Download PDF.\n\n\n\nLast updated 8/2025."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Tiffany Wu",
@@ -21,11 +7,39 @@
     "text": "Welcome!\nI am on the 2025-2026 job market and available for interviews.\nI am a doctoral student in the Combined Program in Education and Psychology (CPEP) at the University of Michigan and am pursuing a dual master’s degree in Statistics. I am also an IES Causal Inference Predoctoral Fellow.\nAt the University of Michigan, I work with Dr. Christina Weiland. I am interested in using machine learning, computational social science, causal inference, and psychometric methods to help inform the development of effective education tools, interventions, and policies. I am also interested in collaborating as part of research-practice partnerships to make research more publicly accessible and able to guide real-world decision-making. My research is deeply influenced by my previous work as a public high school teacher in Chicago and then as a research analyst for an education non-profit prior to starting my PhD. In my free time, I like to paint, play the piano, and play pickleball.\n\n\nPhD in Education & Psychology | University of Michigan | Expected 2026\nMA in Statistics | University of Michigan | Expected 2026\nMA in Psychology | University of Chicago | 2019\nBS in Secondary Education & History | Northwestern University | 2015"
   },
   {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Tiffany Wu",
+    "section": "",
+    "text": "PhD in Education & Psychology | University of Michigan | Expected 2026\nMA in Statistics | University of Michigan | Expected 2026\nMA in Psychology | University of Chicago | 2019\nBS in Secondary Education & History | Northwestern University | 2015"
+  },
+  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Causal inference\nMachine learning\nPsychometrics\nEarly childhood education\nChronic absenteeism\nExecutive functioning"
+    "text": "Machine learning & AI\nComputational social science\nCausal inference\nPsychometrics\nEarly childhood education\nChronic absenteeism\nExecutive functioning"
+  },
+  {
+    "objectID": "research.html#research-interests",
+    "href": "research.html#research-interests",
+    "title": "Research",
+    "section": "",
+    "text": "Machine learning & AI\nComputational social science\nCausal inference\nPsychometrics\nEarly childhood education\nChronic absenteeism\nExecutive functioning"
+  },
+  {
+    "objectID": "research.html#peer-reviewed-journal-articles-published-or-in-press",
+    "href": "research.html#peer-reviewed-journal-articles-published-or-in-press",
+    "title": "Research",
+    "section": "Peer Reviewed Journal Articles (published or in press)",
+    "text": "Peer Reviewed Journal Articles (published or in press)\nWu, T., Weiland, C., McCormick, M., C., Hsueh, J., Snow, C., & Sachs, J. (2024). One score to rule them all: Comparing the predictive and concurrent validity of 30 ways to score the Hearts and Flowers task. Assessment, 1-19.\nMcCormick, M., Hanno, E., Weiland, C., Wu, T., Pralica, M., Hsueh, J., Giles, A., Snow, C., & Sachs, J. (2025). Moving beyond point in time estimates: Using growth models to understand when PreK convergence happens, how, and for which skills. Child Development."
+  },
+  {
+    "objectID": "research.html#papers-under-review",
+    "href": "research.html#papers-under-review",
+    "title": "Research",
+    "section": "Papers Under Review",
+    "text": "Papers Under Review\nWu, T. & Weiland, C. (2024). Leveraging Modern Machine Learning to Improve Early Warning Systems and Reduce Chronic Absenteeism in Early Childhood. Revise and resubmit, Educational Evaluation and Policy Analysis (also an EdWorkingPaper No. 24-1081. Annenberg Institute for School Reform at Brown University). link here\nWeiland, C., Wu, T., Unterman, R., Shapiro, A., Lightner, S., Staines, T., & Taylor, A. (2025). Impacts of Oversubscribed Boston Pre-K Programs through Middle School. Under review (also an EdWorkingPaper No. 25-1194. Annenberg Institute for School Reform at Brown University). link here\nWu, T., Weiland, C., Diemer, M., Unterman, R., Shapiro, A., & Staines, T. (2025). Measuring “Noncognitive” Skills at Scale: Building Longitudinal Student Behavior Composites Using Administrative Data. Under review (also an EdWorkingPaper No. 25-1250. Annenberg Institute for School Reform at Brown University). link here\nYerington, E., Weiland, C., Wu, T., McCormick, M., Hsueh, J., Sachs, J., Snow, C., Guerrero-Rosada, P., & Xia, Y. Teacher-Student Racial-Ethnic Match and Kindergarteners’ Academic and Cognitive Gains: Evidence from Boston. Under review."
   },
   {
     "objectID": "research.html#policy-briefs",
@@ -42,87 +56,10 @@
     "text": "Professional Presentations\nWeiland, C., Wu, T.., Unterman, R., Shapiro, A., Lightner, S., Staines, T., & Taylor, A. (2025, May). Impacts of Oversubscribed Boston Pre-K Programs through Middle School. Causal Inference in Education Research Seminar, Ann Arbor, MI.\nWu, T. & Weiland, C. (2025, May). Leveraging Modern Machine Learning to Improve Early Warning Systems and Reduce Chronic Absenteeism in Early Childhood. Supporting Students in their Earliest Years: Innovations at the State and Local Levels. Harvard University Strategic Data Project Convening, Boston, MA.\nYerington, E., Weiland, C., Wu, T., McCormick, M., Hsueh, J., Sachs, J., Snow, C., Guerrero-Rosada, P., & Xia, Y. (2025, May). Teacher-Student Racial-Ethnic Match and Kindergarteners’ Academic and Cognitive Gains: Evidence from Boston. Society for Research in Child Development (SRCD), Minneapolis, MN.\nWu, T. (2025, February). Leveraging Modern Machine Learning to Improve Early Warning Systems and Reduce Chronic Absenteeism in Early Childhood. Combined Program in Education and Psychology Brown Bag, Ann Arbor, MI.\nWu, T. & Weiland, C. (2024, September). Leveraging Modern Machine Learning to Reduce Chronic Absenteeism in Early Childhood. Society for Research on Educational Effectiveness (SREE), Baltimore, MD.\nWu, T., Weiland, C., Unterman, R., Shapiro, A. (2023, November). Prekindergarten absenteeism in Boston Public Schools: Predictors, patterns, and relationships to learning outcomes. Association for Public Policy Analysis & Management (APPAM), Atlanta, GA.\nWu, T., Weiland, C., McCormick, M., Hsueh, J., Snow, C., & Sachs, J. (2023, May). One score to rule them all? Comparing the predictive and concurrent validity of 30 ways to score the Hearts and Flowers task. HighScope International Conference, Ypsilanti, MI.\nWu, T., Weiland, C., McCormick, M., Hsueh, J., Snow, C., & Sachs, J. (2023, May). One score to rule them all? Comparing the predictive and concurrent validity of 30 ways to score the Hearts and Flowers task. American Educational Research Association (AERA), Chicago, IL.\nWu, T., Weiland, C., McCormick, M., Hsueh, J., Snow, C., & Sachs, J. (2023, March). One score to rule them all? Comparing the predictive and concurrent validity of 30 ways to score the Hearts and Flowers task. The Susan B. Meister Lecture in Child Health Policy, the University of Michigan Child Health Evaluation and Research Center, Ann Arbor, MI.\nWu, T. (2019, June). Multiplication is Vexation and Practice Drives Me Mad: Retrieval Practice Accuracy Mediates the Effect of Math Anxiety on Test Performance. The University of Chicago MAPSS Conference, Chicago, IL.\nJenifer, J. & Wu, T. (2019, May). Math Anxiety & Retrieval Practice: A Potential Strategy for Reducing Performance Gaps. Association for Psychological Science (APS) 31st Annual Convention. Washington, D.C.\nSommer, T.E., Chase-Lansdale, L., Sabol, T.J., Yoshikawa, H., Brooks-Gunn, J., Wu, T. (2014, June). Barrier or Opportunity to Promote Parental Employment?: Early Childhood Education Programs for Low-Income Children. Work and Family Researchers Network Conference. New York City, NY."
   },
   {
-    "objectID": "art.html#inspired-by-a-map-of-my-moms-hometown-in-chiayi-taiwan",
-    "href": "art.html#inspired-by-a-map-of-my-moms-hometown-in-chiayi-taiwan",
-    "title": "Rtistry",
-    "section": "Inspired by a map of my mom’s hometown in Chiayi, Taiwan",
-    "text": "Inspired by a map of my mom’s hometown in Chiayi, Taiwan"
-  },
-  {
-    "objectID": "art.html#some-pink-floyd-inspired-fish",
-    "href": "art.html#some-pink-floyd-inspired-fish",
-    "title": "Rtistry",
-    "section": "Some Pink Floyd-inspired fish",
-    "text": "Some Pink Floyd-inspired fish"
-  },
-  {
-    "objectID": "art.html#inspired-by-haku-in-sprited-away",
-    "href": "art.html#inspired-by-haku-in-sprited-away",
-    "title": "Rtistry",
-    "section": "Inspired by Haku in Sprited Away",
-    "text": "Inspired by Haku in Sprited Away"
-  },
-  {
-    "objectID": "art.html#some-soot-sprites",
-    "href": "art.html#some-soot-sprites",
-    "title": "Rtistry",
-    "section": "Some soot sprites",
-    "text": "Some soot sprites"
-  },
-  {
-    "objectID": "art.html#inspired-by-ponyo",
-    "href": "art.html#inspired-by-ponyo",
-    "title": "Rtistry",
-    "section": "Inspired by Ponyo",
-    "text": "Inspired by Ponyo"
-  },
-  {
-    "objectID": "art.html#more-art-inspired-by-sprited-away",
-    "href": "art.html#more-art-inspired-by-sprited-away",
-    "title": "Rtistry",
-    "section": "More aRt inspired by Sprited Away",
-    "text": "More aRt inspired by Sprited Away"
-  },
-  {
-    "objectID": "research.html#research-interests",
-    "href": "research.html#research-interests",
-    "title": "Research",
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
     "section": "",
-    "text": "Causal inference\nMachine learning\nPsychometrics\nEarly childhood education\nChronic absenteeism\nExecutive functioning"
-  },
-  {
-    "objectID": "research.html#peer-reviewed-journal-articles",
-    "href": "research.html#peer-reviewed-journal-articles",
-    "title": "Research",
-    "section": "Peer Reviewed Journal Articles",
-    "text": "Peer Reviewed Journal Articles\nWu, T., Weiland, C., McCormick, M., C., Hsueh, J., Snow, C., & Sachs, J. (2024). One score to rule them all: Comparing the predictive and concurrent validity of 30 ways to score the Hearts and Flowers task. Assessment, 1-19. link here"
-  },
-  {
-    "objectID": "research.html#working-papers",
-    "href": "research.html#working-papers",
-    "title": "Research",
-    "section": "Working Papers",
-    "text": "Working Papers\nWu, T., & Weiland, C. (2024). Leveraging Modern Machine Learning to Improve Early Warning Systems and Reduce Chronic Absenteeism in Early Childhood. EdWorkingPaper No. 24-1081. Annenberg Institute for School Reform at Brown University. https://doi.org/10.26300/xxvz-cv94 link here"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Tiffany Wu",
-    "section": "",
-    "text": "PhD in Education & Psychology | University of Michigan | Expected 2026\nMA in Statistics | University of Michigan | Expected 2026\nMA in Psychology | University of Chicago | 2019\nBS in Secondary Education & History | Northwestern University | 2015"
-  },
-  {
-    "objectID": "art.html#what-is-rtistry",
-    "href": "art.html#what-is-rtistry",
-    "title": "Rtistry",
-    "section": "",
-    "text": "People often refer to art that is created by coding in the R statistical programming language as “Rtistry” or “aRt”. I love merging my love of art with the technical framework of code, and I think the artistic exploration of code can open the door to beautiful, new visualizations (and better coding skills!).\nHere you’ll find a selection of Rtistry pieces I’ve created. I’ve provided code for some of the pieces on my Github page, so feel free to take a look if you’re interested!"
-  },
-  {
-    "objectID": "research.html#peer-reviewed-journal-articles-published-or-in-press",
-    "href": "research.html#peer-reviewed-journal-articles-published-or-in-press",
-    "title": "Research",
-    "section": "Peer Reviewed Journal Articles (published or in press)",
-    "text": "Peer Reviewed Journal Articles (published or in press)\nWu, T., Weiland, C., McCormick, M., C., Hsueh, J., Snow, C., & Sachs, J. (2024). One score to rule them all: Comparing the predictive and concurrent validity of 30 ways to score the Hearts and Flowers task. Assessment, 1-19. link here\nMcCormick, M., Hanno, E., Weiland, C., Wu, T., Pralica, M., Hsueh, J., Giles, A., Snow, C., & Sachs, J. (in press). Moving beyond point in time estimates: Using growth models to understand when PreK convergence happens, how, and for which skills. Child Development."
+    "text": "This browser does not support PDFs. Please download the PDF to view it: Download PDF.\n\n\n\nLast updated 8/2025."
   }
 ]
