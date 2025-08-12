@@ -3,8 +3,6 @@ title: "Curriculum Vitae"
 title-block-banner: "#e0a8b1"
 ---
 
-![](art_top.png){fig-align="center" width="600px"}
-
 <object data="CV.pdf?v=2025-08" type="application/pdf" width="900px" height="900px">
 
 <embed src="CV.pdf?v=2025-08">
