@@ -29,3 +29,6 @@ format:
 
 editor: visual
 
+execute:
+  freeze: false
+  cache: false
