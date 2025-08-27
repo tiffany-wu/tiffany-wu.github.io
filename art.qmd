@@ -12,7 +12,7 @@ Here you'll find a selection of "aRt" pieces I've created. I've provided code fo
 
 ### Inspired by a map of my mom's hometown in Chiayi, Taiwan
 
-![](chiayi_map_final_final.PNG?v=20250827)
+![](chiayi_map_final_final.PNG)
 
 ### Some Pink Floyd-inspired fish
 
