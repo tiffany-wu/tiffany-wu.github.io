@@ -12,24 +12,24 @@ Here you'll find a selection of "aRt" pieces I've created. I've provided code fo
 
 ### Inspired by a map of my mom's hometown in Chiayi, Taiwan
 
-![](chiayi_map_final_final.PNG)
+![](chiayi_map_final_final.PNG?v=20250827)
 
 ### Some Pink Floyd-inspired fish
 
-![](fish_water_final.png) ![](fish_space_final.png)
+![](fish_water_final.png?v=20250827) ![](fish_space_final.png?v=20250827)
 
 ### Inspired by Haku in Sprited Away
 
-![](SA-Water_final.png)
+![](SA-Water_final.png?v=20250827)
 
 ### Some soot sprites
 
-![](Soot_Sprites.png)
+![](Soot_Sprites.png?v=20250827)
 
 ### Inspired by Ponyo
 
-![](genart_ponyo2.PNG)
+![](genart_ponyo2.PNG?v=20250827)
 
 ### More aRt inspired by Sprited Away
 
-![](genart_haku.jpg)
+![](genart_haku.jpg?v=20250827)
