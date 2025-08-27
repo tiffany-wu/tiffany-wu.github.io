@@ -24,7 +24,7 @@ Here you'll find a selection of "aRt" pieces I've created. I've provided code fo
 
 ### Some soot sprites
 
-![](Soot%20Sprites.png)
+![](Soot_Sprites.png)
 
 ### Inspired by Ponyo
 
