@@ -17,7 +17,7 @@ title-block-banner: "#e0a8b1"
 
 **Wu, T.,** Weiland, C., McCormick, M., C., Hsueh, J., Snow, C., & Sachs, J. (2024). [One score to rule them all: Comparing the predictive and concurrent validity of 30 ways to score the Hearts and Flowers task.](https://journals.sagepub.com/doi/full/10.1177/10731911241229566) Assessment, 1-19.
 
-McCormick, M., Hanno, E., Weiland, C., Wu, T., Pralica, M., Hsueh, J., Giles, A., Snow, C., & Sachs, J. (2025). [Moving beyond point in time estimates: Using growth models to understand when PreK convergence happens, how, and for which skills.](https://srcd.onlinelibrary.wiley.com/doi/full/10.1111/cdev.14240?af=R) Child Development. 
+McCormick, M., Hanno, E., Weiland, C., **Wu, T.,** Pralica, M., Hsueh, J., Giles, A., Snow, C., & Sachs, J. (2025). [Moving beyond point in time estimates: Using growth models to understand when PreK convergence happens, how, and for which skills.](https://srcd.onlinelibrary.wiley.com/doi/full/10.1111/cdev.14240?af=R) Child Development.
 
 ## Papers Under Review
 
@@ -27,7 +27,7 @@ Weiland, C., **Wu, T.,** Unterman, R., Shapiro, A., Lightner, S., Staines, T., &
 
 **Wu, T.,** Weiland, C., Diemer, M., Unterman, R., Shapiro, A., & Staines, T. (2025). Measuring “Noncognitive” Skills at Scale: Building Longitudinal Student Behavior Composites Using Administrative Data. Under review (also an EdWorkingPaper No. 25-1250. Annenberg Institute for School Reform at Brown University). [link here](https://edworkingpapers.com/ai25-1250)
 
-Yerington, E., Weiland, C., Wu, T., McCormick, M., Hsueh, J., Sachs, J., Snow, C., Guerrero-Rosada, P., & Xia, Y. Teacher-Student Racial-Ethnic Match and Kindergarteners’ Academic and Cognitive Gains: Evidence from Boston. Under review.
+Yerington, E., Weiland, C., **Wu, T.,** McCormick, M., Hsueh, J., Sachs, J., Snow, C., Guerrero-Rosada, P., & Xia, Y. Teacher-Student Racial-Ethnic Match and Kindergarteners’ Academic and Cognitive Gains: Evidence from Boston. Under review.
 
 ## Policy Briefs
 
