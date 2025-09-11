@@ -2,7 +2,7 @@
 title: "Tiffany Wu"
 about:
   template: trestles
-  image: ProfilePic_UMIch.JPG
+  image: ProfilePic_UMich2.JPG
   links:
     - icon: linkedin
       text: LinkedIn
