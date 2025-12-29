@@ -24,9 +24,11 @@ Welcome!
 
 **I am on the 2025-2026 job market and available for interviews.**
 
-I am a doctoral student in the [Combined Program in Education and Psychology (CPEP)](https://soe.umich.edu/academics-admissions/cpep) at the University of Michigan and am pursuing a dual master's degree in [Statistics](https://lsa.umich.edu/stats/masters_students/mastersprograms/dualmasters.html). I am also an [IES Causal Inference Predoctoral Fellow](https://edpolicy.umich.edu/training/predoctoral-fellowship).
+I am a doctoral student in the [Combined Program in Education and Psychology (CPEP)](https://soe.umich.edu/academics-admissions/cpep) at the University of Michigan and am pursuing a dual master's degree in [Statistics](https://lsa.umich.edu/stats/masters_students/mastersprograms/dualmasters.html). I am also an [IES Causal Inference Predoctoral Fellow](https://edpolicy.umich.edu/training/predoctoral-fellowship) and [2022 APPAM Equity & Inclusion Fellow](https://www.appam.org/about-appam/awards/2022-equity-inclusion-fellowship-student-recipients/).
 
-At the University of Michigan, I work with [Dr. Christina Weiland](https://sites.google.com/a/umich.edu/christina-weiland/). I am interested in using machine learning, data science, causal inference, and psychometric methods to help inform the development of effective tools, interventions, and policies in PK-12 education. I am also interested in collaborating as part of research-practice partnerships to make research more publicly accessible and able to guide real-world decision-making. My research is deeply influenced by my previous work as a public high school teacher in Chicago and then as a research analyst for an education non-profit prior to starting my PhD. In my free time, I like to paint, play the piano, and play pickleball.
+At the University of Michigan, I work with [Dr. Christina Weiland](https://sites.google.com/a/umich.edu/christina-weiland/). Broadly, my research weaves machine learning, AI, causal inference, and psychometric methods to design, evaluate, and scale PK-12 tools and interventions. I am deeply committed to using data science to advance educational opportunity and equity. I am also committed to collaborating as part of research-practice partnerships that make scholarship more publicly accessible and closely attuned to the lived experiences of students, families, and practitioners across diverse educational contexts.
+
+My research is deeply influenced by my previous work as a public high school teacher in Chicago and then as a research analyst for an education non-profit prior to starting my PhD. In my free time, I like to paint, play the piano, and play pickleball.
 
 ## Education
 
