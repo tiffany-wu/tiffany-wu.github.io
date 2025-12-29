@@ -15,19 +15,21 @@ title-block-banner: "#e0a8b1"
 
 ## Peer Reviewed Journal Articles (published or in press)
 
+**Wu, T.** & Weiland, C. (in press). Leveraging Modern Machine Learning to Improve Early Warning Systems and Reduce Chronic Absenteeism in Early Childhood. *Educational Evaluation and Policy Analysis.* (also an EdWorkingPaper, No. 24-1081. Annenberg Institute for School Reform at Brown University). [link here](https://edworkingpapers.com/ai24-1081)
+
 **Wu, T.,** Weiland, C., McCormick, M., C., Hsueh, J., Snow, C., & Sachs, J. (2024). [One score to rule them all: Comparing the predictive and concurrent validity of 30 ways to score the Hearts and Flowers task.](https://journals.sagepub.com/doi/full/10.1177/10731911241229566) Assessment, 1-19.
 
 McCormick, M., Hanno, E., Weiland, C., **Wu, T.,** Pralica, M., Hsueh, J., Giles, A., Snow, C., & Sachs, J. (2025). [Moving beyond point in time estimates: Using growth models to understand when PreK convergence happens, how, and for which skills.](https://srcd.onlinelibrary.wiley.com/doi/full/10.1111/cdev.14240?af=R) Child Development.
 
 ## Papers Under Review
 
-**Wu, T.** & Weiland, C. (2024). Leveraging Modern Machine Learning to Improve Early Warning Systems and Reduce Chronic Absenteeism in Early Childhood. Revise and resubmit, Educational Evaluation and Policy Analysis (also an EdWorkingPaper No. 24-1081. Annenberg Institute for School Reform at Brown University). [link here](https://edworkingpapers.com/ai24-1081)
-
-Weiland, C., **Wu, T.,** Unterman, R., Shapiro, A., Lightner, S., Staines, T., & Taylor, A. (2025). Impacts of Oversubscribed Boston Pre-K Programs through Middle School. Under review (also an EdWorkingPaper No. 25-1194. Annenberg Institute for School Reform at Brown University). [link here](https://edworkingpapers.com/ai25-1194)
+Weiland, C., **Wu, T.,** Unterman, R., Shapiro, A., Lightner, S., Staines, T., & Taylor, A. (2025). *Impacts of Oversubscribed Boston Pre-K Programs through Middle School.* Revise and resubmit, *Child Development.* (also an EdWorkingPaper No. 25-1194. Annenberg Institute for School Reform at Brown University). [link here](https://edworkingpapers.com/ai25-1194)
 
 **Wu, T.,** Weiland, C., Diemer, M., Unterman, R., Shapiro, A., & Staines, T. (2025). Measuring “Noncognitive” Skills at Scale: Building Longitudinal Student Behavior Composites Using Administrative Data. Under review (also an EdWorkingPaper No. 25-1250. Annenberg Institute for School Reform at Brown University). [link here](https://edworkingpapers.com/ai25-1250)
 
 Yerington, E., Weiland, C., **Wu, T.,** McCormick, M., Hsueh, J., Sachs, J., Snow, C., Guerrero-Rosada, P., & Xia, Y. Teacher-Student Racial-Ethnic Match and Kindergarteners’ Academic and Cognitive Gains: Evidence from Boston. Under review.
+
+Lein, L., Borah, A., Burzo, Z., Eglash, R., Khoshlessan, M., Jin, Z., Mahalingam, R., Nwatu, J., Patel, M., Vega Hidalgo, A., **Wu, T.,** & Mihalcea, R. *How AI can be used to contribute to poverty alleviation without deepening inequality.* Under review.
 
 ## Policy Briefs
 

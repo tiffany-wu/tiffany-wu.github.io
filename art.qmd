@@ -1,5 +1,5 @@
 ---
-title: aRt
+title: Art
 title-block-banner: "#e0a8b1"
 format:
   html:
