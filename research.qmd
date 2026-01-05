@@ -2,6 +2,9 @@
 title: Research
 title-block-banner: "#e0a8b1"
 toc: false
+format:
+  html:
+    css: styles.css
 ---
 
 ## <u>Research Interests</u>
@@ -22,7 +25,7 @@ toc: false
 **Wu, T.** & Weiland, C. (in press). Leveraging Modern Machine Learning to Improve Early Warning Systems and Reduce Chronic Absenteeism in Early Childhood. *Educational Evaluation and Policy Analysis.* (also an EdWorkingPaper, No. 24-1081. Annenberg Institute for School Reform at Brown University). [link here](https://edworkingpapers.com/ai24-1081)
 </div>
 
-::: {.callout-note collapse="true" icon="false"}
+::: {.callout-note collapse="true" icon="false" .abstract-callout}
 ##### Abstract 
 
 This study focuses on improving the predictive power of early warning systems (EWSs) to decrease chronic absenteeism in early childhood. Using a demographically diverse sample of students followed from PreK to third grade in Boston Public Schools (*N*=6,698), we demonstrate how and why two modern machine learning algorithms—the Synthetic Minority Oversampling Technique (SMOTE) and Extreme Gradient Boosting (XGBoost)—can enhance EWS accuracy. The best-performing XGBoost model with SMOTE achieved a 54-percentage point improvement in accuracy (in terms of recall rate) over the logistic regression model closest to those used in current EWSs, more accurately detecting students who would become chronically absent in third grade, and outperformed other machine learning approaches evaluated. Notably, models excluding student demographic information maintained comparable predictive accuracy.
@@ -34,7 +37,7 @@ This study focuses on improving the predictive power of early warning systems (E
 **Wu, T.,** Weiland, C., McCormick, M., C., Hsueh, J., Snow, C., & Sachs, J. (2024). [One score to rule them all: Comparing the predictive and concurrent validity of 30 ways to score the Hearts and Flowers task.](https://journals.sagepub.com/doi/full/10.1177/10731911241229566) Assessment, 1-19.
 </div>
 
-::: {.callout-note collapse="true" icon="false"}
+::: {.callout-note collapse="true" icon="false" .abstract-callout}
 ##### Abstract
 
 The Hearts and Flowers (H&F) task is a computerized executive functioning (EF) assessment that has been used to measure EF from early childhood to adulthood. It provides data on accuracy and reaction time (RT) across three different task blocks (hearts, flowers, and mixed). However, there is a lack of consensus in the field on how to score the task that makes it difficult to interpret findings across studies. The current study, which includes a demographically diverse population of kindergarteners from Boston Public Schools (N= 946), compares the predictive and concurrent validity of 30 ways of scoring H&F, each with a different combination of accuracy, RT, and task block(s). Our exploratory results provide evidence supporting the use of a two-vector average score based on Zelazo et al.'s approach of adding accuracy and RT scores together only after individuals pass a certain accuracy threshold. Findings have implications for scoring future tablet-based developmental assessments.
@@ -46,7 +49,7 @@ The Hearts and Flowers (H&F) task is a computerized executive functioning (EF) a
 McCormick, M., Hanno, E., Weiland, C., **Wu, T.,** Pralica, M., Hsueh, J., Giles, A., Snow, C., & Sachs, J. (2025). [Moving beyond point in time estimates: Using growth models to understand when PreK convergence happens, how, and for which skills.](https://srcd.onlinelibrary.wiley.com/doi/full/10.1111/cdev.14240?af=R) Child Development.
 </div>
 
-::: {.callout-note collapse="true" icon="false"}
+::: {.callout-note collapse="true" icon="false" .abstract-callout}
 ##### Abstract 
 
 This study examines associations between enrollment in high-quality PreK and growth in children's (N = 422; Mage= 5.63 years; 47% female; 15% Asian, 19% Black, 30% White, 31% Hispanic; 5% other or mixed race) academic, executive functioning, and social-emotional skills across kindergarten (2017-2018) and first grade (2018-2019). Associations between PreK enrollment and language and math skills were sustained through first grade. More convergence between PreK enrollees and non-enrollees in language skills occurred during first grade than kindergarten. Convergence patterns were stronger in math during kindergarten than in first grade. There were no associations between PreK enrollment and executive functioning by spring of first grade; most convergence occurred in first grade. All other associations were null by first grade.
@@ -78,7 +81,7 @@ Lein, L., Borah, A., Burzo, Z., Eglash, R., Khoshlessan, M., Jin, Z., Mahalingam
 Weiland, C., McCormick, M., **Wu, T.,** MacDowell, C., Guerrero-Rosada, P., Taylor, A., Snow, C., & Sachs, J. (2023). [Teacher well-being and professional development in a pandemic: Evidence from early educators in the Boston Public Schools.](https://edpolicy.umich.edu/research/boston-rpp-briefs/professional-development-time-covid-19-evidence-and-insights-early) Boston Early Childhood Research Practice Partnership.
 </div>
 
-::: {.callout-note collapse="true" icon="false"}
+::: {.callout-note collapse="true" icon="false" .abstract-callout}
 ##### Summary
 This brief is part of a larger body of research examining the Boston Universal Pre-K (UPK) expansion and the Expanding Children’s Early Learning (ExCEL) P-3 Project focused on sustaining children’s early learning gains. As we navigate the repercussions of the ongoing pandemic, there is a growing need to understand how districts can better support early educators in their classrooms. Using survey data from Pre-K and third grade teachers in the Boston Public Schools, we provide a descriptive analysis of the professional development supports early educators received from the district in spring 2021. Our findings offer lessons for districts on how investments in professional development supports can strengthen early learning instruction.
 :::
@@ -89,7 +92,7 @@ This brief is part of a larger body of research examining the Boston Universal P
 **Wu, T.,** McCormick, M., Weiland, C., Hsueh, J., Sachs, J., & Snow, C. (2023). [What sustains the pre-K boost? New evidence from Boston Public Schools.](https://edpolicy.umich.edu/research/boston-rpp-briefs/what-sustains-pre-k-boost-new-evidence-boston-public-schools) Boston Early Childhood Research Practice Partnership.
 </div>
 
-::: {.callout-note collapse="true" icon="false"}
+::: {.callout-note collapse="true" icon="false" .abstract-callout}
 ##### Summary 
 Children who attend a prekindergarten (Pre-K) program generally score higher on academic, social-emotional, and cognitive assessments at the start of kindergarten than children who do not. However, Pre-K nonattenders typically catch up to Pre-K attenders—sometimes partially and sometimes fully—by the end of kindergarten or first grade. Pre-K attenders still tend to outperform nonattenders in longer-term outcomes such as high school graduation, college attendance, and health status. But with the majority of American children scoring below proficiency in critical reading and math skills in elementary school, there has been considerable research and policy attention paid in recent years to what factors best sustain the Pre-K boost in the elementary school years. Drawing on four papers that use data from students enrolled in the Boston Public Schools (BPS), this brief explores evidence from testing three interconnected theories on how to sustain Pre-K benefits: skill type, sustaining environments, and instructional (mis)alignment.
 :::
@@ -99,7 +102,7 @@ Children who attend a prekindergarten (Pre-K) program generally score higher on 
 **Wu, T.,** Weiland, C., McCormick, M., Sachs, J., Taylor, A., Hsueh, J., & Snow, C. (2023). [What if You Miss the First Year of an Aligned Curriculum? Boston Public Schools’ Pre-K Non-Attenders Made Equivalent Learning Gains Whether or Not their Kindergarten Program was Aligned with Pre-K.](https://edpolicy.umich.edu/research/boston-rpp-briefs/what-if-you-miss-first-year-aligned-curriculum) Boston Early Childhood Research Practice Partnership.
 </div>
 
-::: {.callout-note collapse="true" icon="false"}
+::: {.callout-note collapse="true" icon="false" .abstract-callout}
 ##### Summary 
 1. Aligning Pre-K and kindergarten may be an important strategy for sustaining the Pre-K boost. However, it is possible that efforts to align kindergarten with Pre-K might disadvantage students who did not attend the aligned Pre-K year.
 

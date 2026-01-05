@@ -1,5 +1,5 @@
 /* css styles */
-
+body { outline: 8px solid magenta !important; }
 .about {
   width: 100%; /* adjust to your preferred width */  
   margin: auto;
@@ -36,10 +36,28 @@
   border-color: #296e5d !important;
 }
 
+/*RESEARCH PAGE: THIS IS FOR THE CITATIONS ON THE RESEARCH QMD PAGE TO MAKE THE APA CITATION FONT SMALLER*/
 .pub-citation {
   font-size: 0.83rem;        /* smaller than title */
   color: #374151;          /* soft dark gray */
   line-height: 1.45;
   margin-top: 0.25rem;
   margin-bottom: 0.5rem;
+}
+
+/*RESEARCH PAGE: Making abstract callout neutral(no blue) */
+.callout.abstract-callout  {
+  --callout-color: #6b7280;      /* soft gray */
+  --callout-bg: #f9fafb;         /* very light gray */
+  --callout-border: #d1d5db;
+}
+
+.callout.abstract-callout  .callout-body {
+  color: #374151;
+  font-size: 0.85rem;
+}
+
+/* Optional: tighten spacing */
+.callout.abstract-callout  {
+  margin-top: 0.5rem;
 }
