@@ -37,7 +37,7 @@
 }
 
 .pub-citation {
-  font-size: 0.9rem;        /* smaller than title */
+  font-size: 0.83rem;        /* smaller than title */
   color: #374151;          /* soft dark gray */
   line-height: 1.45;
   margin-top: 0.25rem;

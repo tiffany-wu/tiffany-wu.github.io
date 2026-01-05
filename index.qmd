@@ -2,7 +2,7 @@
 title: "Tiffany Wu"
 about:
   template: trestles
-  image: ProfilePic_UMich2.JPG
+  image: ProfilePic_UMIch.JPG
   links:
     - icon: linkedin
       text: LinkedIn
@@ -16,6 +16,7 @@ about:
     - icon: Bluesky
       text: Bluesky
       href: https://bsky.app/profile/tiffanyxwu.bsky.social
+toc: false
 ---
 
 <section class="about">
