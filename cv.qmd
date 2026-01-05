@@ -3,11 +3,11 @@ title: "Curriculum Vitae"
 title-block-banner: "#e0a8b1"
 ---
 
-<object data="CV_Wu_112025.pdf" type="application/pdf" width="900px" height="900px">
+<object data="CV_Wu_012026.pdf" type="application/pdf" width="900px" height="900px">
 
-<embed src="CV_Wu_112025.pdf">
+<embed src="CV_Wu_012026.pdf">
 
-<p>This browser does not support PDFs. Please download the PDF to view it: <a href="CV_Wu_112025.pdf">Download PDF</a>.</p>
+<p>This browser does not support PDFs. Please download the PDF to view it: <a href="CV_Wu_012026.pdf">Download PDF</a>.</p>
 
 </embed>
 
