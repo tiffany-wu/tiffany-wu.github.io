@@ -13,6 +13,7 @@ css: styles.css
 <a href="https://westvirginiawatch.com/2026/06/04/wv-native-creates-online-state-school-closure-tracker-70-of-closures-impacted-elementary-schools/">WV native creates online state school closure tracker; 70% of closures impacted elementary schools</a><br>
 Amelia Ferrell Knisely, <em>West Virginia Watch</em>, June 4, 2026.
 </div>
+
 <div class="pub-tags">
   <a href="https://wvschoolconsolidations.shinyapps.io/westvirginiaschoolclosures/" class="pub-tag">
     📊 Data Dashboard
@@ -25,6 +26,7 @@ Amelia Ferrell Knisely, <em>West Virginia Watch</em>, June 4, 2026.
 <a href="https://westvirginiawatch.com/2026/06/01/coalition-asks-state-leaders-to-immediately-pause-wv-school-closures-as-lawmakers-mull-funding-fix/">Coalition asks state leaders to immediately pause WV school closures as lawmakers mull funding fix</a><br>
 Amelia Ferrell Knisely, <em>West Virginia Watch</em>, June 1, 2026.
 </div>
+
 <div class="pub-tags">
   <a href="https://wvschoolconsolidations.shinyapps.io/westvirginiaschoolclosures/" class="pub-tag">
     📊 Data Dashboard
