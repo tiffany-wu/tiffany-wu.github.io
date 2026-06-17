@@ -339,3 +339,33 @@ h6 {
   margin-left: 1rem;
   margin-bottom: 1rem;
 }
+
+@media (max-width: 768px) {
+  .quarto-about-trestles {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+  }
+
+  .quarto-about-trestles .about-entity {
+    width: 100% !important;
+    max-width: 100% !important;
+    flex: unset !important;
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    text-align: center !important;
+  }
+
+  .quarto-about-trestles .about-image {
+    width: 180px !important;
+    height: auto !important;
+    margin: 0 auto !important;
+  }
+
+  .quarto-about-trestles .about-contents {
+    width: 100% !important;
+    max-width: 100% !important;
+    flex: unset !important;
+  }
+}
