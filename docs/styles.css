@@ -1,9 +1,9 @@
 /* css styles */
 
-.about {
+/*.about {
   width: 100%; /* adjust to your preferred width */  
   margin: auto;
-}
+}*/
 
 .cv {
   width: 100%; /* adjust to your preferred width */  
@@ -20,7 +20,7 @@
 
 /* Override minty theme green */
 :root {
-  --bs-primary: #328571; /* darker green */
+  --bs-primary: #7D8F7A; /* darker green */
 }
 
 /* Optional: also tweak hover/focus states */
@@ -32,32 +32,310 @@
 
 .btn-primary:hover,
 .navbar .nav-link.active:hover {
-  background-color: #296e5d !important; /* even darker hover */
-  border-color: #296e5d !important;
+  background-color: #606e5e !important; /* even darker hover */
+  border-color: #C9A9A6 !important;
 }
+
+
 
 /*RESEARCH PAGE: THIS IS FOR THE CITATIONS ON THE RESEARCH QMD PAGE TO MAKE THE APA CITATION FONT SMALLER*/
 .pub-citation {
-  font-size: 0.83rem;        /* smaller than title */
-  color: #374151;          /* soft dark gray */
-  line-height: 1.45;
-  margin-top: 0.25rem;
-  margin-bottom: 0.5rem;
+  font-size: 0.7rem;        /* smaller than title */
+  color: #2a2b2b;          /* soft dark gray */
+  line-height: 1.4;
+  margin-top: 0rem;
+  margin-bottom: 0rem;
 }
 
-/*RESEARCH PAGE: Making abstract callout neutral(no blue) */
-.callout.abstract-callout  {
-  --callout-color: #6b7280;      /* soft gray */
-  --callout-bg: #f9fafb;         /* very light gray */
-  --callout-border: #d1d5db;
+
+/* Optional: tighten spacing */
+.callout.abstract-callout {
+  margin-top: 0rem;
+  margin-bottom: 0.0rem;
+
+  font-size: 0.5rem;
+  margin-left: 2rem;
+
+  --callout-bg: #FAF8F5;
+  --callout-border: #899c86;
 }
 
-.callout.abstract-callout  .callout-body {
-  color: #374151;
+.callout.abstract-callout {
+  --callout-color: #2a2b2b;
+  --callout-bg: #f7f5f1;
+  --callout-border: #C9A9A6;
+
+  border-left: 4px solid #899c86;
+}
+
+.callout.abstract-callout .callout-body {
+  color: #2a2b2b;
+  font-size: 0.8rem;
+  line-height: 1.4;
+}
+
+.callout.abstract-callout .callout-header {
+  color: #2a2b2b;
+}
+
+/* Global sage palette */
+:root {
+  --bs-primary: #7D8F7A;
+  --bs-link-color: #7D8F7A;
+  --bs-link-hover-color: #343b34;
+}
+
+/* Links */
+a {
+  color: #505c50;
+}
+
+a:hover {
+  color: #343b34;
+}
+
+/* Navbar */
+.navbar {
+  --bs-navbar-color: #7D8F7A;
+  --bs-navbar-hover-color: #C9A9A6;
+  --bs-navbar-active-color: #C9A9A6;
+}
+
+.navbar .nav-link.active,
+.navbar .nav-link.show {
+  color: #899c86 !important;
+  background-color: transparent !important;
+}
+
+/* Global sage palette */
+:root {
+  --bs-primary: #899c86;
+  --bs-link-color: #505c50;
+  --bs-link-hover-color: #2f3a2f;
+}
+
+/* Links */
+a {
+  color: #505c50;
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+}
+
+a:hover,
+a:focus {
+  color: #111111;
+  text-decoration-thickness: 2px;
+}
+
+/* Navbar background */
+.navbar,
+.navbar-dark,
+.navbar-light,
+#quarto-header {
+  background-color: #899c86 !important;
+}
+
+/* Navbar text */
+.navbar .navbar-brand,
+.navbar .nav-link,
+.navbar .nav-link:visited {
+  color: #ffffff !important;
+}
+
+/* Current/active tab */
+.navbar .nav-link.active,
+.navbar .nav-link.show {
+  color: #ffffff !important;
+  font-weight: 500;
+  background-color: #6f806c !important;
+  border-radius: 0.35rem;
+}
+
+/* Navbar hover */
+.navbar .nav-link:hover,
+.navbar .nav-link:focus {
+  color: #ffffff !important;
+  background-color: #6f806c !important;
+  border-radius: 0.35rem;
+}
+
+/* Buttons */
+.btn-primary {
+  background-color: #899c86 !important;
+  border-color: #899c86 !important;
+}
+
+.btn-primary:hover {
+  background-color: #6f806c !important;
+  border-color: #6f806c !important;
+}
+
+/* Sidebar/about links/icons, if trestles uses these */
+.about-link,
+.about-link:hover,
+.quarto-about-trestles .about-link {
+  color: #6F806C !important;
+  border-color: #C9A9A6 !important;
+}
+
+/* Headings */
+h1, h2, h3 {
+  color: #161716;
+}
+
+/* Force navbar background */
+.navbar,
+.navbar-dark,
+.navbar-light,
+#quarto-header {
+  background-color: #899c86 !important;
+}
+
+/* Navbar links */
+.navbar-nav .nav-link {
+  font-size: 1.05rem;
+}
+
+/* Site title ("Tiffany Wu") */
+.navbar-brand {
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+/* Reduce title banner height */
+.quarto-title-banner {
+  padding-top: 0.7rem !important;
+  padding-bottom: 0.7rem !important;
+}
+
+/* Reduce title size */
+.quarto-title-banner .title {
+  font-size: 1.5rem;
+  margin-bottom: 0;
+}
+
+/* Section headers */
+h2 {
+  font-size: 1.5rem;
+  color: #161716;
+  margin-top: 1.5rem;
+}
+
+/* Paper titles */
+h4 {
+  font-size: 1.15rem;
+  color: #161716;
+}
+
+/* Abstract/Summary headers */
+h6 {
+  font-size: 0.6 rem;
+  font-weight: 500;
+}
+
+/* Override Quarto note callout colors */
+.callout-note {
+  --bs-callout-color: #2a2b2b !important;
+  --bs-callout-bg: #FAF8F5 !important;
+  --bs-callout-border-color: #3f4d4a !important;
+}
+
+.callout-note .callout-header {
+  background-color: #F5F1EC !important;
+  color: #3f4d4a !important;
+}
+
+.callout-note {
+  border-left: 4px solid #3f4d4a!important;
+}
+
+.pub-citation {
+  font-size: 0.95rem;
+  color: #2a2b2b;
+  line-height: 1.6;
+  margin-top: 0.75rem;
+  margin-bottom: 0.25rem;
+}
+
+.pub-citation a {
+  font-weight: 600;
+}
+
+.pub-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.2rem;
+  margin-top: 0.1rem;
+  margin-bottom: 0.1rem;
+  margin-left: 2rem;
+}
+
+.pub-tag {
+  display: inline-block;
+  padding: 0.2rem 0.5rem;
+  border-radius: 999px;
+
+  background-color: #F5F1EC;
+  border: 1px solid #C9A9A6;
+
+  color: #505c50 !important;
+  text-decoration: none !important;
+  font-size: 0.72rem;
+  font-weight: 500;
+
+  transition: all 0.15s ease;
+}
+
+.pub-tag:hover {
+  background-color: #899c86;
+  border-color: #899c86;
+  color: white !important;
+}
+
+.research-interests {
   font-size: 0.85rem;
 }
 
-/* Optional: tighten spacing */
-.callout.abstract-callout  {
-  margin-top: 0.5rem;
+/* Trestles about-page layout: make text column wider */
+/* Trestles about-page layout: make text column wider */
+.quarto-about-trestles {
+  grid-template-columns: 25% 75% !important;
+}
+
+.quarto-about-trestles .about-entity {
+  flex: 0 0 25% !important;
+  max-width: 25% !important;
+}
+
+.quarto-about-trestles .about-contents {
+  flex: 0 0 75% !important;
+  max-width: 75% !important;
+}
+
+.quarto-about-trestles .about-image {
+  width: 200px !important;
+  height: auto !important;
+  object-fit: cover;
+}
+
+.about-bio {
+  font-size: 0.9rem;
+  line-height: 1.6;
+}
+
+.media-citation {
+  margin-bottom: 0.2rem;
+  line-height: 1.5;
+}
+
+.media-description {
+  margin-left: 1rem;
+  margin-bottom: 1rem;
+  color: #555;
+  font-size: 0.9rem;
+}
+
+.media-tags {
+  margin-left: 1rem;
+  margin-bottom: 1rem;
 }

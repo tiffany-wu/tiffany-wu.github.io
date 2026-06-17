@@ -8,10 +8,12 @@ website:
     left:
       - href: index.qmd
         text: About Me
-      - href: research.qmd
-        text: Research
       - href: cv.qmd
         text: CV
+      - href: research.qmd
+        text: Research
+      - href: media.qmd
+        text: Media
       - href: art.qmd
         text: Art
   search: 
@@ -21,9 +23,9 @@ website:
 
 format:
   html:
-    theme: 
-      light: minty
-      dark: slate
+  #  theme: 
+ #     light: cosmo #minty
+  #    dark: slate
     css: styles.css
     toc: true
 

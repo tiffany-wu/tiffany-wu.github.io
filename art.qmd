@@ -1,6 +1,6 @@
 ---
 title: Art
-title-block-banner: "#e0a8b1"
+#title-block-banner: "#C9A9A6"
 format:
   html:
     toc: false

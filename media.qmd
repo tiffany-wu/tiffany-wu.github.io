@@ -1,0 +1,52 @@
+---
+title: Media
+#title-block-banner: "#C9A9A6"
+format:
+  html:
+    toc: false
+css: styles.css
+---
+
+## Selected Media Coverage
+
+<div class="media-citation">
+<a href="https://westvirginiawatch.com/2026/06/04/wv-native-creates-online-state-school-closure-tracker-70-of-closures-impacted-elementary-schools/">WV native creates online state school closure tracker; 70% of closures impacted elementary schools</a><br>
+Amelia Ferrell Knisely, <em>West Virginia Watch</em>, June 4, 2026.
+</div>
+<div class="pub-tags">
+  <a href="https://wvschoolconsolidations.shinyapps.io/westvirginiaschoolclosures/" class="pub-tag">
+    📊 Data Dashboard
+  </a>
+  <span class="pub-tag">🏫 School Closures</span>
+  <span class="pub-tag">📜 Education Policy</span>
+</div>
+
+<div class="media-citation">
+<a href="https://westvirginiawatch.com/2026/06/01/coalition-asks-state-leaders-to-immediately-pause-wv-school-closures-as-lawmakers-mull-funding-fix/">Coalition asks state leaders to immediately pause WV school closures as lawmakers mull funding fix</a><br>
+Amelia Ferrell Knisely, <em>West Virginia Watch</em>, June 1, 2026.
+</div>
+<div class="pub-tags">
+  <a href="https://wvschoolconsolidations.shinyapps.io/westvirginiaschoolclosures/" class="pub-tag">
+    📊 Data Dashboard
+  </a>
+  <span class="pub-tag">🏫 School Closures</span>
+  <span class="pub-tag">📜 Education Policy</span>
+</div>
+
+<div class="media-citation">
+<a href="https://www.edweek.org/leadership/absenteeism-may-hurt-academics-long-before-it-becomes-chronic/2026/01">Absenteeism may hurt academics long before it becomes “chronic”</a><br>
+Evie Blad, <em>Education Week</em>, January 21, 2026.
+</div>
+<div class="pub-tags">
+  <span class="pub-tag">🎒 Chronic Absenteeism</span>
+  <span class="pub-tag">📜 Education Policy</span>
+</div>
+
+<div class="media-citation">
+<a href="https://fordhaminstitute.org/ohio/commentary/does-missing-school-harm-students-even-when-they-arent-chronically-absent">Does missing school harm students even when they aren't "chronically absent"?</a><br>
+Jeff Murray, <em>Thomas B. Fordham Institute</em>, February 17, 2026.
+</div>
+<div class="pub-tags">
+  <span class="pub-tag">🎒 Chronic Absenteeism</span>
+  <span class="pub-tag">📜 Education Policy</span>
+</div>
