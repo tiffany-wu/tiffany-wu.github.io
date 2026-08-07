@@ -1,0 +1,284 @@
+---
+title: Resources
+#title-block-banner: "#C9A9A6"
+toc: false
+format:
+  html:
+    page-layout: "full"
+---
+
+I've learned a great deal from the work and generosity of others over the years. This page collects some of the free resources I've found especially useful along the way. You can browse the full list or filter by topic. I hope you find these as useful as I have!
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+library(dplyr)
+library(stringr)
+library(reactable)
+library(htmltools)
+library(googlesheets4)
+library(htmlwidgets)
+
+# -----------------------------
+# Read Google Sheet
+# -----------------------------
+gs4_deauth()
+
+resources <- read_sheet(
+  "https://docs.google.com/spreadsheets/d/1nypf-VoXK6RXRXK_SeMhaZP1t_nTDJ2u3Lqh6k9jbj0/edit?gid=0#gid=0"
+) |>
+  filter(!is.na(Title)) |>
+  rename(
+    Categories = Type,
+    Resource = Title
+  )
+
+# -----------------------------
+# Extract alphabetical categories
+# -----------------------------
+categories <- resources$Categories |>
+  str_split(",\\s*") |>
+  unlist() |>
+  unique() |>
+  sort()
+
+# -----------------------------
+# Colors for category pills
+# -----------------------------
+category_colors <- c(
+  "Academic Job Market" = "#C98F86",  # dusty rose
+  "Causal Inference"    = "#8FA6B8",  # muted blue-gray
+  "Data Science"        = "#8FA6B8",
+  "Data Visualization"  = "#8FA6B8",
+  "Datasets"            = "#D5B66F",  # warm ochre
+  "General Info"        = "#B9A7C8",  # muted lavender
+  "Machine Learning"    = "#8FA6B8",
+  "Psychometrics"       = "#8FA6B8",
+  "Teaching"            = "#899C86"   # your site's sage
+)
+
+# -----------------------------
+# Category dropdown
+# -----------------------------
+
+tags$div(
+  style = "margin-bottom: 15px;",
+
+  tags$label(
+    `for` = "category-filter",
+    "Filter by category:",
+    style = "font-weight: 600; margin-right: 8px;"
+  ),
+
+  tags$select(
+    id = "category-filter",
+
+    style = "
+      padding: 6px 10px;
+      border: 1px solid #ccc;
+      border-radius: 6px;
+      background-color: white;
+      min-width: 220px;
+    ",
+
+    tags$option(
+      value = "",
+      "All categories"
+    ),
+
+    lapply(
+      categories,
+      function(x) {
+        tags$option(
+          value = x,
+          x
+        )
+      }
+    )
+  )
+)
+
+# -----------------------------
+# Reactable
+# -----------------------------
+
+reactable(
+  resources,
+
+  elementId = "resources-table",
+
+  searchable = TRUE,
+  highlight = TRUE,
+  striped = TRUE,
+  bordered = FALSE,
+
+  pagination = TRUE,
+  defaultPageSize = 15,
+  showPageSizeOptions = TRUE,
+  pageSizeOptions = c(10, 15, 25, 50),
+
+  defaultSorted = "Resource",
+
+  columns = list(
+
+    Resource = colDef(
+      name = "Resource",
+      minWidth = 300,
+
+      cell = function(value, index) {
+
+        link <- resources$Link[index]
+
+        tags$a(
+          href = link,
+          target = "_blank",
+          rel = "noopener noreferrer",
+          value,
+          style = "
+            font-weight: 600;
+            text-decoration: none;
+          "
+        )
+      }
+    ),
+
+    Author = colDef(
+      name = "Author",
+      minWidth = 170
+    ),
+
+    Categories = colDef(
+      name = "Categories",
+      minWidth = 250,
+
+      filterMethod = JS("
+        function(rows, columnId, filterValue) {
+
+          if (!filterValue) {
+            return rows;
+          }
+
+          return rows.filter(function(row) {
+
+            var value = row.values[columnId];
+
+            if (!value) {
+              return false;
+            }
+
+            var categories = value
+              .split(',')
+              .map(function(x) {
+                return x.trim();
+              });
+
+            return categories.includes(filterValue);
+          });
+        }
+      "),
+
+      cell = function(value) {
+
+        cats <- str_split(value, ",\\s*")[[1]]
+
+        tags$div(
+          lapply(
+            cats,
+            function(cat) {
+
+              bg_color <- category_colors[[cat]]
+
+              if (is.null(bg_color)) {
+                bg_color <- "#F1F3F5"
+              }
+
+tags$span(
+  cat,
+  style = paste0(
+    "display: inline-block;",
+    "padding: 3px 8px;",
+    "margin: 2px 3px 2px 0;",
+    "border-radius: 999px;",
+    "background-color: ", bg_color, ";",
+    "font-size: 0.72rem;",
+    "font-weight: 600;",
+    "color: white;",
+    "white-space: nowrap;"
+  )
+)
+            }
+          )
+        )
+      }
+    ),
+
+    Link = colDef(
+      show = FALSE
+    ),
+
+    Field = colDef(
+      show = FALSE
+    )
+  ),
+
+theme = reactableTheme(
+  borderColor = "#e5e5e5",
+  stripedColor = "#fafafa",
+  highlightColor = "#f5f5f5",
+
+  # Smaller overall table font
+  style = list(
+    fontSize = "0.82rem"
+  ),
+
+  # Slightly more compact rows
+  cellPadding = "7px 9px",
+
+  headerStyle = list(
+    fontWeight = 600,
+    fontSize = "0.82rem",
+    borderBottom = "2px solid #ddd"
+  )
+)
+)
+
+# -----------------------------
+# Connect dropdown to reactable
+# -----------------------------
+
+tags$script(
+  HTML("
+    document.addEventListener('DOMContentLoaded', function() {
+
+      var filter = document.getElementById('category-filter');
+
+      if (!filter) {
+        return;
+      }
+
+      filter.addEventListener('change', function() {
+
+        var selected = this.value;
+        var table = Reactable.getInstance('resources-table');
+
+        if (selected === '') {
+          table.setFilter('Categories', undefined);
+        } else {
+          table.setFilter('Categories', selected);
+        }
+
+      });
+
+    });
+  ")
+)
+
+```
+
+
+
+
+
+

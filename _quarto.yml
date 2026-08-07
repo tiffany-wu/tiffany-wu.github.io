@@ -14,6 +14,8 @@ website:
         text: Research
       - href: media.qmd
         text: Media
+      - href: resources.qmd
+        text: Resources
       - href: art.qmd
         text: Art
   search: 
