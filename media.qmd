@@ -10,6 +10,16 @@ css: styles.css
 ## Selected Media Coverage
 
 <div class="media-citation">
+<a href="https://faculti.net/machine-learning-and-synthetic-data-improve-early-warning-systems-for-chronic-absenteeism">Machine Learning and Synthetic Data Improve Early Warning Systems for Chronic Absenteeism</a><br>
+Faculti</em>, July, 2026.
+</div>
+
+<div class="pub-tags">
+  <span class="pub-tag">🎒 Chronic Absenteeism</span>
+  <span class="pub-tag">📜 Education Policy</span>
+</div>
+
+<div class="media-citation">
 <a href="https://westvirginiawatch.com/2026/06/04/wv-native-creates-online-state-school-closure-tracker-70-of-closures-impacted-elementary-schools/">WV native creates online state school closure tracker; 70% of closures impacted elementary schools</a><br>
 Amelia Ferrell Knisely, <em>West Virginia Watch</em>, June 4, 2026.
 </div>

@@ -39,6 +39,11 @@ format:
   </a>
 </div>
 
+<div class="pub-tags">
+  <a href="https://faculti.net/machine-learning-and-synthetic-data-improve-early-warning-systems-for-chronic-absenteeism" class="pub-tag">
+     📰 Faculti Interview
+  </a>
+
 ::: {.callout-note collapse="true" icon="false" .abstract-callout}
 ###### Abstract 
 
