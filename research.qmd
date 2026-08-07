@@ -30,19 +30,20 @@ format:
 </div>
 
 <div class="pub-tags">
-  <a href="https://midas.umich.edu/2025-u-m-data-science-and-ai-summit-recap-2/" class="pub-tag">
-     🏅 2025 MIDAS Award for High-Impact Application
-  </a>
 
-  <a href="https://cps.isr.umich.edu/fellowships/sarri-family-fellowship/" class="pub-tag">
-    🏅 2024 Sarri Family Fellowship
-  </a>
+<a href="https://midas.umich.edu/2025-u-m-data-science-and-ai-summit-recap-2/" class="pub-tag">
+🏅 2025 MIDAS Award for High-Impact Application
+</a>
+
+<a href="https://cps.isr.umich.edu/fellowships/sarri-family-fellowship/" class="pub-tag">
+🏅 2024 Sarri Family Fellowship
+</a>
+
+<a href="https://faculti.net/machine-learning-and-synthetic-data-improve-early-warning-systems-for-chronic-absenteeism" class="pub-tag">
+📰 Faculti Interview
+</a>
+
 </div>
-
-<div class="pub-tags">
-  <a href="https://faculti.net/machine-learning-and-synthetic-data-improve-early-warning-systems-for-chronic-absenteeism" class="pub-tag">
-     📰 Faculti Interview
-  </a>
 
 ::: {.callout-note collapse="true" icon="false" .abstract-callout}
 ###### Abstract 
