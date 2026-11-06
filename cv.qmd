@@ -3,14 +3,14 @@ title: "Curriculum Vitae"
 #title-block-banner: "#C9A9A6"
 ---
 
-<object data="CV_Wu_Academic_PhD2.pdf" type="application/pdf" width="900px" height="900px">
+<object data="CV_Wu_Academic_PhD.pdf" type="application/pdf" width="900px" height="900px">
 
-<embed src="CV_Wu_Academic_PhD2.pdf">
+<embed src="CV_Wu_Academic_PhD.pdf">
 
-<p>This browser does not support PDFs. Please download the PDF to view it: <a href="CV_Wu_Academic_PhD2.pdf">Download PDF</a>.</p>
+<p>This browser does not support PDFs. Please download the PDF to view it: <a href="CV_Wu_Academic_PhD.pdf">Download PDF</a>.</p>
 
 </embed>
 
 </object>
 
-Last updated 06/2026.
+Last updated 11/2026.
